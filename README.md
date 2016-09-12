@@ -12,3 +12,13 @@ adapting at runtime
 ## Facade
 convinience to hide complexity of target(s)
 
+## Creation 
+Factory
+Abstract Factory
+Prototype (cloning)
+Builder
+Singleton
+
+#Observer
+Observable to notify set of registered Observers
+
