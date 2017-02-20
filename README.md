@@ -19,6 +19,13 @@ Prototype (cloning)
 Builder
 Singleton
 
-#Observer
+##Observer
 Observable to notify set of registered Observers
 
+##Command
+Encapsulate behavior
+
+##Template Method
+Templating to allow subclasses to implement some specific behaviors
+
+##Strategy
